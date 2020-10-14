@@ -5,8 +5,8 @@ I just completed Makers Academy intensive bootcamp which gave me the ability to 
 
 ### Languages and librairies:
 
-JavaScript (& NodeJS, JQuery, AJAX, React)<br>
-Ruby (& Ruby on Rails)<br>
+JavaScript (& NodeJS, JQuery, AJAX, React, Jasmine, Jest)<br>
+Ruby (& Ruby on Rails, RSpec)<br>
 HTML<br>
 CSS<br>
 MySQL, PSQL<br>
