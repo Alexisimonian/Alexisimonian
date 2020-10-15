@@ -10,7 +10,10 @@ Ruby (& Ruby on Rails, RSpec)<br>
 HTML<br>
 CSS<br>
 MySQL, PSQL<br>
-Boostrap<br>
+Bootstrap<br>
+Wordpress<br><br>
+
+Currently learning PHP...
 
 ### 📧 Contact
 
