@@ -11,7 +11,7 @@ HTML<br>
 CSS<br>
 MySQL, PSQL<br>
 Bootstrap<br>
-Wordpress<br><br>
+Wordpress<br>
 
 Currently learning PHP...
 
