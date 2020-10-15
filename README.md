@@ -3,7 +3,7 @@
 As a recently graduated Full-Stack Developer, I want to continue coding and broadening my skills with exciting projects.
 I just completed Makers Academy intensive bootcamp which gave me the ability to code apps and websites in several languages. I am also very confident in learning any new coding languages quickly.
 
-### 💻 Languages and librairies:
+### 💻 Languages and libraries:
 
 JavaScript (& NodeJS, JQuery, AJAX, React, Jasmine, Jest)<br>
 Ruby (& Ruby on Rails, RSpec)<br>
